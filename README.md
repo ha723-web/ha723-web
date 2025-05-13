@@ -33,8 +33,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkunuriHarshini&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkunuriHarshini&layout=compact&theme=radical)](https://github.com/AkunuriHarshini)
+![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha723-web&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha723-web&layout=compact&theme=radical)](https://github.com/ha723-web)
 
 ---
 
