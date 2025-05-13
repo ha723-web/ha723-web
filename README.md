@@ -42,7 +42,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/ha723-web/ha723-web/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ha723-web/ha723-web/blob/main/dist/github-contribution-grid-snake.svg)
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ha723-web&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
