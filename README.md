@@ -38,5 +38,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha723-web&layout=compact&theme=radical)](https://github.com/ha723-web)
 
 ---
+## ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
+## 🚀 Featured Projects
+
+- 🎯 [Resume Analyzer](https://github.com/ha723-web/Resume-Analyzer) – Extract, evaluate & parse resumes using NLP  
+- 📺 [AI-Based YouTube Video Summarizer](https://github.com/ha723-web/AI-Based-Youtube-Video-Summarizer-) – Generates summaries for video transcripts using LLMs  
+- 🤖 [Smart Contract Verifier](https://github.com/ha723-web/Smart-Contract-Verifier-) – Verifies Solidity smart contracts for common flaws  
+- 🧾 [University Chatbot](https://github.com/ha723-web/University-Course-Syllabus-Chatbot) – Answers syllabus-related questions using Python  
+---
 
 🌟 *"Learning, building, and helping others grow — one model at a time!"*
