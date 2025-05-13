@@ -39,4 +39,18 @@
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/ha723-web/ha723-web/blob/output/github-contribution-grid-snake.svg)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ha723-web&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ha723-web&color=blueviolet&style=flat)
+
+---
+
+
 🌟 *"Learning, building, and helping others grow — one model at a time!"*
