@@ -1,12 +1,16 @@
-<h1 align="center">👋 Data Scientist</h1>
+
+<h1 align="center">Harshini Akunuri</h1>
+
+<h3 align="center">
+  <code>Data Scientist</code>
+</h3>
 
 <p align="center">
-  🎓 M.S. CS @ Northern Arizona University | 🧠 AI/ML Enthusiast | ☁️ Cloud Dev | 📊 Data Scientist  
+  <img src="https://komarev.com/ghpvc/?username=ha723-web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <i>Passionate about solving real-world problems with ML and Intelligent Systems</i>
-</p>
+---
+
 
 ---
 
