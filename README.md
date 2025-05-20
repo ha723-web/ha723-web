@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Scientist-FF1493?style=flat-square&labelColor=FF1493&color=white" />
   <img src="https://img.shields.io/badge/AI%2FML%20Engineer-FF1493?style=flat-square&labelColor=FF1493&color=white" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-FF1493?style=flat-square&labelColor=FF1493&color=white" />
 </p>
 
 
