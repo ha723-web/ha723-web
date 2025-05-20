@@ -22,12 +22,11 @@
 ---
 
 ## 🚀 Tech Stack
-
 <h2 align="center">🚀 Tech Stack</h2>
 
 <table align="center">
   <tr>
-    <!-- Languages -->
+    <!-- LANGUAGES -->
     <td valign="top" width="50%" style="background-color:#f5f5f5; border-radius:10px; padding:15px; margin:10px;">
       <h3>👩‍💻 Languages</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -86,8 +85,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ---
 
