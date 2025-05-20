@@ -30,7 +30,7 @@
 <div align="center">
 
   <!-- Languages -->
-  <div style="background-color:#f9f9f9; border-radius:10px; padding:15px; margin:10px 0; width:90%; max-width:800px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <h3>👨‍💻 Languages</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -39,7 +39,7 @@
   </div>
 
   <!-- AI/ML -->
-  <div style="background-color:#f9f9f9; border-radius:10px; padding:15px; margin:10px 0; width:90%; max-width:800px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <h3>🤖 AI/ML</h3>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -48,17 +48,17 @@
   </div>
 
   <!-- Data Science -->
-  <div style="background-color:#f9f9f9; border-radius:10px; padding:15px; margin:10px 0; width:90%; max-width:800px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <h3>📊 Data Science</h3>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
     <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
   </div>
 
   <!-- Cloud & DevOps -->
-  <div style="background-color:#f9f9f9; border-radius:10px; padding:15px; margin:10px 0; width:90%; max-width:800px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <h3>☁️ Cloud & DevOps</h3>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
@@ -67,15 +67,15 @@
   </div>
 
   <!-- Databases -->
-  <div style="background-color:#f9f9f9; border-radius:10px; padding:15px; margin:10px 0; width:90%; max-width:800px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <h3>🗄️ Databases</h3>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </div>
 
-  <!-- Tools & Platforms -->
-  <div style="background-color:#f9f9f9; border-radius:10px; padding:15px; margin:10px 0; width:90%; max-width:800px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+  <!-- Tools -->
+  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
     <h3>🛠️ Tools & Platforms</h3>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
