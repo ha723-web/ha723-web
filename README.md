@@ -58,13 +58,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-## 📬 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshini-akunuri)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshiniakunuri59@gmail.com)
-
----
-
 ## 📊 GitHub Stats
 
 ![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=ha723-web&show_icons=true&theme=tokyonight)
@@ -97,9 +90,6 @@
 
 <a href="https://www.linkedin.com/in/harshini-akunuri/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Harshini%20Akunuri-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
-<a href="https://www.credly.com/users/harshini-akunuri.ce534512/badges" target="_blank">
-  <img src="https://img.shields.io/badge/Certifications-Credly-yellow?style=flat&logo=credly" alt="Credly Badge"/>
 </a>
 <a href="mailto:harshiniakunuri59@gmail.com">
   <img src="https://img.shields.io/badge/Email-harshiniakunuri59@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
