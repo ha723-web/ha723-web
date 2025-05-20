@@ -78,5 +78,24 @@
 - 🎓 [University Chatbot](https://github.com/ha723-web/University-Course-Syllabus-Chatbot)
 
 ---
+---
+
+## 🔗 Connect with Me
+
+<a href="https://www.linkedin.com/in/harshini-akunuri/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Harshini%20Akunuri-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.credly.com/users/harshini-akunuri/badges" target="_blank">
+  <img src="https://img.shields.io/badge/Credentials-Credly-yellow?style=flat&logo=credly" alt="Credly Badge"/>
+</a>
+<a href="mailto:harshiniakunuri59@gmail.com">
+  <img src="https://img.shields.io/badge/Email-harshiniakunuri59@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+
+Feel free to reach out for collaborations, opportunities, or to just talk about cool AI stuff 😊
+
+---
+
+> _"Code is like baking — mix the right ingredients, follow the right process, and something wonderful happens."_ 🍰
 
 🌟 _“Learning, building, and helping others grow — one model at a time!”_
