@@ -1,12 +1,11 @@
-
 <h1 align="center">Harshini Akunuri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00AEEF&center=true&vCenter=true&width=435&lines=Data+Scientist;AI%2FML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Data+Scientist;AI%2FML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ha723-web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ha723-web&label=Profile%20views&color=FF1493&style=flat" alt="profile views" />
 </p>
 
 ---
