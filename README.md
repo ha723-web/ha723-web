@@ -22,7 +22,6 @@
 ---
 
 ## 🚀 Tech Stack
-<h2>🚀 Tech Stack</h2>
 
 <table>
   <tr>
@@ -85,6 +84,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
