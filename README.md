@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ha723-web&label=Profile%20views&color=FF1493&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Profile%20views-600-FF1493?style=flat" alt="profile views" />
 </p>
 
 ---
