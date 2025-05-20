@@ -23,68 +23,63 @@
 
 ## 🚀 Tech Stack
 
-<table align="center">
-  <tr>
-    <!-- LANGUAGES -->
-    <td valign="top" width="50%" style="background-color:#f5f5f5; border-radius:10px; padding:15px;">
-      <h3>👩‍💻 Languages</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    </td>
+<div align="center">
 
-    <!-- AI/ML -->
-    <td valign="top" width="50%" style="background-color:#f5f5f5; border-radius:10px; padding:15px;">
-      <h3>🤖 AI/ML</h3>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-    </td>
-  </tr>
+  <!-- LANGUAGES -->
+  <div style="background-color:#f5f5f5; border-radius:12px; padding:20px; width:70%; margin-bottom:20px;">
+    <h3>👩‍💻 Languages</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  </div>
 
-  <tr>
-    <!-- DATA SCIENCE -->
-    <td valign="top" style="background-color:#f5f5f5; border-radius:10px; padding:15px;">
-      <h3>📊 Data Science</h3>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-    </td>
+  <!-- AI/ML -->
+  <div style="background-color:#f5f5f5; border-radius:12px; padding:20px; width:70%; margin-bottom:20px;">
+    <h3>🤖 AI/ML</h3>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  </div>
 
-    <!-- CLOUD -->
-    <td valign="top" style="background-color:#f5f5f5; border-radius:10px; padding:15px;">
-      <h3>☁️ Cloud & DevOps</h3>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    </td>
-  </tr>
+  <!-- DATA SCIENCE -->
+  <div style="background-color:#f5f5f5; border-radius:12px; padding:20px; width:70%; margin-bottom:20px;">
+    <h3>📊 Data Science</h3>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+  </div>
 
-  <tr>
-    <!-- DATABASES -->
-    <td valign="top" style="background-color:#f5f5f5; border-radius:10px; padding:15px;">
-      <h3>🗄️ Databases</h3>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    </td>
+  <!-- CLOUD -->
+  <div style="background-color:#f5f5f5; border-radius:12px; padding:20px; width:70%; margin-bottom:20px;">
+    <h3>☁️ Cloud & DevOps</h3>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  </div>
 
-    <!-- TOOLS -->
-    <td valign="top" style="background-color:#f5f5f5; border-radius:10px; padding:15px;">
-      <h3>🛠️ Tools & Platforms</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+  <!-- DATABASES -->
+  <div style="background-color:#f5f5f5; border-radius:12px; padding:20px; width:70%; margin-bottom:20px;">
+    <h3>🗄️ Databases</h3>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </div>
 
+  <!-- TOOLS -->
+  <div style="background-color:#f5f5f5; border-radius:12px; padding:20px; width:70%;">
+    <h3>🛠️ Tools & Platforms</h3>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </div>
+
+</div>
 
 ---
 
