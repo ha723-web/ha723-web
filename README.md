@@ -78,6 +78,8 @@
   *Coursera (Andrew Ng, DeepLearning.AI)*  
   [View Course Series »](https://www.coursera.org/specializations/deep-learning)
 
+[![Credly Badge](https://img.shields.io/badge/View%20All%20Badges-Credly-yellow?style=for-the-badge&logo=credly)](https://www.credly.com/users/harshini-akunuri.ce534512/badges)
+
 --- 
 
 ## 📊 GitHub Stats
