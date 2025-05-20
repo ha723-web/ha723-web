@@ -1,5 +1,4 @@
-<h1 align="center">Harshini Akunuri</h1>
-
+<h1 align="center" style="font-size: 50px;"><strong>✨ Harshini Akunuri ✨</strong></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF1493&center=true&vCenter=true&width=435&lines=Data+Scientist;AI%2FML+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 </p>
