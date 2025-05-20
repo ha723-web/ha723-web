@@ -22,17 +22,20 @@
 ---
 
 ## 🚀 Tech Stack
+<h2>🚀 Tech Stack</h2>
 
 <table>
   <tr>
+    <!-- Languages -->
     <td valign="top" width="50%" style="background-color:#f4f4f4; border-radius:10px; padding:15px; margin:10px;">
-      <h3>👨‍💻 Languages</h3>
+      <h3>👩‍💻 Languages</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     </td>
-    
+
+    <!-- AI/ML -->
     <td valign="top" width="50%" style="background-color:#f4f4f4; border-radius:10px; padding:15px; margin:10px;">
       <h3>🤖 AI/ML</h3>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -41,8 +44,9 @@
       <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
     </td>
   </tr>
-  
+
   <tr>
+    <!-- Data Science -->
     <td valign="top" width="50%" style="background-color:#f4f4f4; border-radius:10px; padding:15px; margin:10px;">
       <h3>📊 Data Science</h3>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -51,7 +55,8 @@
       <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"/>
       <img src="https://img.shields.io/badge/Seaborn-2B65EC?style=for-the-badge&logoColor=white"/>
     </td>
-    
+
+    <!-- Cloud & DevOps -->
     <td valign="top" width="50%" style="background-color:#f4f4f4; border-radius:10px; padding:15px; margin:10px;">
       <h3>☁️ Cloud & DevOps</h3>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -60,15 +65,17 @@
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
     </td>
   </tr>
-  
+
   <tr>
+    <!-- Databases -->
     <td valign="top" width="50%" style="background-color:#f4f4f4; border-radius:10px; padding:15px; margin:10px;">
       <h3>🗄️ Databases</h3>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
-    
+
+    <!-- Tools -->
     <td valign="top" width="50%" style="background-color:#f4f4f4; border-radius:10px; padding:15px; margin:10px;">
       <h3>🛠️ Tools & Platforms</h3>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -78,6 +85,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
