@@ -11,9 +11,6 @@
 
 ---
 
-
----
-
 ## 💫 About Me:
 
 - 👩‍🏫 ML Teaching Assistant at NAU — led workshops on LLMs, NLP, Deep Learning
@@ -61,6 +58,27 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+## 📜 Certifications
+
+- 🟧 **AWS Certified Machine Learning – Specialty**  
+  *Amazon Web Services (AWS)*  
+  [View Credential »](https://www.credly.com/users/harshini-akunuri.ce534512/badges)
+
+- 🔵 **IBM Data Science Professional Certificate**  
+  *IBM via Coursera*  
+  [View Credential »](https://www.credly.com/users/harshini-akunuri.ce534512/badges)
+
+- 🟦 **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
+  *Microsoft Azure*  
+  [View Credential »](https://www.credly.com/users/harshini-akunuri.ce534512/badges)
+
+- 🧠 **Deep Learning Specialization**  
+  *Coursera (Andrew Ng, DeepLearning.AI)*  
+  [View Course Series »](https://www.coursera.org/specializations/deep-learning)
+
+--- 
 
 ## 📊 GitHub Stats
 
@@ -68,7 +86,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ha723-web&layout=compact&theme=tokyonight)](https://github.com/ha723-web)
 
 ---
-
 
 ## 🏆 GitHub Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ha723-web&theme=radical&margin-w=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -87,7 +104,6 @@
 - 🔐 [Smart Contract Verifier](https://github.com/ha723-web/Smart-Contract-Verifier-)
 - 🎓 [University Chatbot](https://github.com/ha723-web/University-Course-Syllabus-Chatbot)
 
----
 ---
 
 ## 🔗 Connect with Me
