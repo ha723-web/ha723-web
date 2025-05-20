@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Harshini Akunuri</h1>
+<h1 align="center">👋 Data Scientist</h1>
 
 <p align="center">
   🎓 M.S. CS @ Northern Arizona University | 🧠 AI/ML Enthusiast | ☁️ Cloud Dev | 📊 Data Scientist  
