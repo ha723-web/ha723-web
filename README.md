@@ -22,65 +22,70 @@
 ---
 
 ## 🚀 Tech Stack
-<h2 align="center">🚀 Tech Stack</h2>
+## 🚀 Tech Stack
 
-<div align="center">
+<table>
+  <tr>
+    <td><strong>👨‍💻 Languages</strong><br><br>
 
-  <!-- Languages -->
-  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <h3>👨‍💻 Languages</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  </div>
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-  <!-- AI/ML -->
-  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <h3>🤖 AI/ML</h3>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🤖 AI/ML</strong><br><br>
 
-  <!-- Data Science -->
-  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <h3>📊 Data Science</h3>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-  </div>
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+    ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-  <!-- Cloud & DevOps -->
-  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <h3>☁️ Cloud & DevOps</h3>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>📊 Data Science</strong><br><br>
 
-  <!-- Databases -->
-  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <h3>🗄️ Databases</h3>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </div>
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+    ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+    ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-  <!-- Tools -->
-  <div style="background-color:#f4f4f4; border-radius:10px; padding:20px; margin:12px 0; width:85%; max-width:800px; box-shadow: 2px 2px 10px rgba(0,0,0,0.05);">
-    <h3>🛠️ Tools & Platforms</h3>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Cloud & DevOps</strong><br><br>
 
-</div>
+    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases</strong><br><br>
+
+    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠️ Tools & Platforms</strong><br><br>
+
+    ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
