@@ -43,7 +43,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-42A5F5?style=for-the-badge)
 
-### ☁️ Cloud & DevOps:
+### ☁️ Cloud :
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
