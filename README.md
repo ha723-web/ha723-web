@@ -86,7 +86,6 @@
   </tr>
 </table>
 
-
 ---
 
 ## 📜 Certifications
