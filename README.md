@@ -25,64 +25,38 @@
 
 ## 🚀 Tech Stack
 
-### 👩‍💻 Languages:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 🤖 AI/ML:
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-</p>
-
-### 📊 Data Science:
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-42A5F5?style=for-the-badge&logoColor=white"/>
-</p>
-
-### ☁️ Cloud:
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</p>
-
-### 🗄️ Databases:
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms:
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" style="border:2px solid black; padding:20px;">
+      <strong>👩‍💻 Languages:</strong><br><br>
+      Python | Java | R | JavaScript
+    </td>
+    <td width="50%" align="center" style="border:2px solid black; padding:20px;">
+      <strong>🤖 AI/ML:</strong><br><br>
+      TensorFlow | PyTorch | Scikit-learn | Keras
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border:2px solid black; padding:20px;">
+      <strong>📊 Data Science:</strong><br><br>
+      Pandas | NumPy | Jupyter | Matplotlib | Seaborn
+    </td>
+    <td width="50%" align="center" style="border:2px solid black; padding:20px;">
+      <strong>☁️ Cloud:</strong><br><br>
+      AWS | Azure | Docker | Kubernetes
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border:2px solid black; padding:20px;">
+      <strong>🗄️ Databases:</strong><br><br>
+      MongoDB | PostgreSQL | MySQL
+    </td>
+    <td width="50%" align="center" style="border:2px solid black; padding:20px;">
+      <strong>🛠️ Tools & Platforms:</strong><br><br>
+      Git | GitHub | Jira | VS Code
+    </td>
+  </tr>
+</table>
 
 ---
 
