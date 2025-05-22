@@ -59,19 +59,15 @@
 
 - 🟧 **AWS Certified Machine Learning – Specialty**  
   *Amazon Web Services (AWS)*  
-  [View Credential »](https://www.credly.com/users/harshini-akunuri.ce534512/badges)
-
-- 🔵 **IBM Data Science Professional Certificate**  
-  *IBM via Coursera*  
-  [View Credential »](https://www.credly.com/users/harshini-akunuri.ce534512/badges)
+  [View Credential »](https://www.credly.com/badges/38f5828b-e937-4488-b85e-ea7bed236ed1/linked_in_profile)
 
 - 🟦 **Microsoft Certified: Azure AI Fundamentals (AI-900)**  
   *Microsoft Azure*  
-  [View Credential »](https://www.credly.com/users/harshini-akunuri.ce534512/badges)
-
+  [View Credential »](https://www.linkedin.com/learning/certificates/5d6d611d89a19396fc9e96ce5cd11ec3b7d2ca2996231c641e10e0990d4f1822)
+  
 - 🧠 **Deep Learning Specialization**  
-  *Coursera (Andrew Ng, DeepLearning.AI)*  
-  [View Course Series »](https://www.coursera.org/specializations/deep-learning)
+  *IBM*  
+  [https://www.credly.com/badges/76ff53f8-99e6-413d-8cef-800ce29a8634/linked_in_profile)
 
 [![Credly Badge](https://img.shields.io/badge/View%20All%20Badges-Credly-yellow?style=for-the-badge&logo=credly)](https://www.credly.com/users/harshini-akunuri.ce534512/badges)
 
