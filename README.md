@@ -4,12 +4,6 @@
   <img src="https://img.shields.io/badge/AI%2FML%20Engineer-FF1493?style=flat-square&labelColor=FF1493&color=white" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ha723-web&label=Profile%20views&color=FF1493&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 💫 About Me:
