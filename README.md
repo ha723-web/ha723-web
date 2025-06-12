@@ -9,10 +9,12 @@
 
 ## 💫 About Me:
 
-- 👩‍🏫 ML Teaching Assistant at NAU — led workshops on LLMs, NLP, Deep Learning
-- ⚙️ Worked on scalable pipelines, model optimization, and automation
-- ✨ Awarded **“Tech Visionary”** for reducing ML training time by 30%
-- 🌱 Learning XAI, NLP, Cloud ML, and LLMs
+- 👩‍🏫 ML Teaching Assistant at NAU — led workshops on LLMs, NLP, Deep Learning  
+- ⚙️ Built scalable ML pipelines, optimized models, and automated workflows using Python, Streamlit, Make/n8n  
+- ✨ Awarded **“Tech Visionary”** for reducing ML training time by 30%  
+- 🤖 Created 12+ AI/automation projects including chatbots, medical imaging apps, NLP tools, and dashboards  
+- 🌱 Learning XAI, NLP, Cloud ML, and scalable LLM deployments  
+- 🤝 Known for clear communication, fast turnaround, and 10/10 responsiveness
 
 ---
 
