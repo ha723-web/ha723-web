@@ -1,8 +1,8 @@
 <h1 align="center" style="font-size: 70px;"><strong>HARSHINI AKUNURI </strong></h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-FF1493?style=flat-square&labelColor=FF1493&color=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-FF1493?style=flat-square&labelColor=FF1493&color=white" />
   <img src="https://img.shields.io/badge/AI%2FML%20Engineer-FF1493?style=flat-square&labelColor=FF1493&color=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-FF8C00?style=flat-square&labelColor=FF1493&color=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20System%20Design-FF8C00?style=flat-square&labelColor=FF1493&color=white" />
 </p>
 
 ---
