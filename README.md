@@ -92,13 +92,64 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
 ## 📌 Featured Projects
 
-- 🔍 [Resume Analyzer](https://github.com/ha723-web/Resume-Analyzer)
-- 🤖 [AI-Based YouTube Video Summarizer](https://github.com/ha723-web/AI-Based-Youtube-Video-Summarizer-)
-- 🔐 [Smart Contract Verifier](https://github.com/ha723-web/Smart-Contract-Verifier-)
-- 🎓 [University Chatbot](https://github.com/ha723-web/University-Course-Syllabus-Chatbot)
+### 🧠 AI & NLP Projects
+
+- **AI-Based YouTube Video Summarizer**  
+  Converts long videos into bite-sized summaries using transcription + Hugging Face Transformers.
+
+- **Email Threat Classifier**  
+  Classifies emails as phishing, spam, or safe using Transformers, Streamlit UI, and regex-based filters.
+
+- **AI Meeting Notes Summarizer**  
+  Summarizes uploaded meeting audio/text using Whisper + BART with a clean Streamlit interface.
+
+- **University Chatbot**  
+  Built with LLMs and semantic search to respond to course-related queries from uploaded syllabi.
+
+- **Resume Analyzer**  
+  Parses resumes, matches skills with job descriptions using NLP and custom scoring logic.
+
+---
+
+### 🩺 Medical AI Projects
+
+- **OCT Scan Disease Classifier**  
+  Deep learning classifier (PyTorch + ResNet18) for identifying CNV, DME, Drusen, and Normal scans.
+
+- **Cup-to-Disc Ratio Estimator (Glaucoma)**  
+  Estimates glaucoma risk by segmenting optic disc/cup from fundus images using image processing.
+
+---
+
+### 🔐 Web & Automation Tools
+
+- **Smart Contract Verifier**  
+  Detects flaws and verifies Ethereum smart contracts using regex and rule-based validation.
+
+- **Quote of the Day App**  
+  Flask app that delivers daily motivational quotes using a public API and responsive layout.
+
+---
+
+### 📊 Data Visualization
+
+- **Retail Sales Dashboard (Tableau)**  
+  Interactive dashboard for analyzing sales KPIs, profitability, and region-wise trends.
+
+---
+
+### 🧩 Full-Stack Development
+
+- **Employee Management System**  
+  Full-stack CRUD app using Spring Boot + MySQL to manage employee data and operations.
+
+- **Smart Contract Verifier**  
+  Combines backend logic and front-end validation to flag errors in Ethereum smart contracts.
+
+- **Email Threat Classifier**  
+  Integrated NLP, frontend UI, and automation — a complete AI-powered full-stack application.
 
 ---
 
