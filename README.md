@@ -102,9 +102,6 @@
 
 ## 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/harshini-akunuri/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Harshini%20Akunuri-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
-</a>
 <a href="mailto:harshiniakunuri59@gmail.com">
   <img src="https://img.shields.io/badge/Email-harshiniakunuri59@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
