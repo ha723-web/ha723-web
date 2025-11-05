@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-- 🎓 **Graduate Research Assistant at Northern Arizona University (NAU)** — mentored students in **ML and DS**
+- 🎓 **Graduate Teaching Assistant at Northern Arizona University (NAU)** — mentored students in **ML and DS**
 - 👩‍🏫 **Machine Learning and AI Instructor** — teaching applied AI, ML, and LLMs through hands-on, project-based learning  
 - 🧠 **Subject Matter Expert for Agentic AI** — developing advanced learning modules on LLMs, LangChain, and AI personalization  
 - 🤖 Developed and mentored multiple **real-world AI projects** across NLP, computer vision, and automation  
