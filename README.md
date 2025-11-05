@@ -8,10 +8,10 @@
 
 ## 💫 About Me
 
-- 🎓 **Graduate Teaching Assistant at Northern Arizona University (NAU)** — mentored students in **Web Development**, **Machine Learning**, and **Data Structures**  
+- 🎓 **Graduate Teaching Assistant at Northern Arizona University (NAU)** — mentored students in **Machine Learning** and **Data Structures**  
 - 👩‍🏫 **Machine Learning and AI Instructor** — teaching applied AI, ML, and LLMs through hands-on, project-based learning  
 - 🧠 **Subject Matter Expert for Agentic AI** — designing and developing advanced AI learning modules integrating **LangChain**, **Hugging Face**, and **MCP** frameworks  
-- ⚙️ Experienced in building **AI/ML pipelines**, automating workflows, and deploying applications using **Python**, **Streamlit**, and **FastAPI**  
+- ⚙️ Experienced in building **AI/ML pipelines**, automating workflows, and deploying applications using **Streamlit**, and **FastAPI**  
 - 🤖 Developed and mentored multiple **real-world AI projects** across NLP, computer vision, and automation  
 - 🌱 Currently exploring **Generative AI tools** — including **RAG pipelines**, **LoRA fine-tuning**, and **model optimization**  
 ---
