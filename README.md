@@ -6,15 +6,14 @@
 
 ---
 
-## 💫 About Me:
+## 💫 About Me
 
-- 👩‍🏫 ML Teaching Assistant at NAU — led workshops on LLMs, NLP, Deep Learning  
-- ⚙️ Built scalable ML pipelines, optimized models, and automated workflows using Python, Streamlit, Make/n8n  
-- ✨ Awarded **“Tech Visionary”** for reducing ML training time by 30%  
-- 🤖 Created 12+ AI/automation projects including chatbots, medical imaging apps, NLP tools, and dashboards  
-- 🌱 Learning XAI, NLP, Cloud ML, and scalable LLM deployments  
-- 🤝 Known for clear communication, fast turnaround, and 10/10 responsiveness
-
+- 🎓 **Graduate Teaching Assistant at Northern Arizona University (NAU)** — mentored students in **Web Development**, **Machine Learning**, and **Data Structures**  
+- 👩‍🏫 **Machine Learning and AI Instructor** — teaching applied AI, ML, and LLMs through hands-on, project-based learning  
+- 🧠 **Subject Matter Expert for Agentic AI** — designing and developing advanced AI learning modules integrating **LangChain**, **Hugging Face**, and **MCP** frameworks  
+- ⚙️ Experienced in building **AI/ML pipelines**, automating workflows, and deploying applications using **Python**, **Streamlit**, and **FastAPI**  
+- 🤖 Developed and mentored multiple **real-world AI projects** across NLP, computer vision, and automation  
+- 🌱 Currently exploring **Generative AI tools** — including **RAG pipelines**, **LoRA fine-tuning**, and **model optimization**  
 ---
 ## 🚀 Tech Stack
 
